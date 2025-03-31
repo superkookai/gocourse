@@ -1,4 +1,4 @@
-package main
+package basics
 
 //Name import >> foo "net/http"
 import (

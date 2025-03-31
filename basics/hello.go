@@ -2,7 +2,7 @@
 //Build Binary >> go build hello.go
 //Run built >> ./hello
 
-package main
+package basics
 
 //Standard Library
 //fmt == formatted I/O
